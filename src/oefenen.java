@@ -3,6 +3,7 @@ public class oefenen {
 
 
         System.out.println("neww");
+        System.out.println("ssss");
 
     }
 }
