@@ -15,5 +15,9 @@ NOT: Yukarıdaki iki komutu tek seferde kullandıktan sonra ikinci commit'lerim 
 kullanırız
      */
 
+    public static void main(String[] args) {
 
+        System.out.println("study github");
+
+    }
 }
