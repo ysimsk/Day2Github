@@ -24,5 +24,7 @@ kullanırız
 
        */
         System.out.println("branch");
+        System.out.println("branch");
+        System.out.println("branch");
     }
 }
