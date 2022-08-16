@@ -7,7 +7,7 @@ public class DayGit2 {
         System.out.println("Git 2. class");
         System.out.println("Git 2. class");
         System.out.println("Git 2. class");
-
+        System.out.println("Deneme master");
 
 
 
