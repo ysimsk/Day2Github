@@ -8,6 +8,8 @@ public class bjk {
         System.out.println("bu sene11 sampiyonuz");
         System.out.println("bu sene12 sampiyonuz");
         System.out.println("bu sene13 sampiyonuz");
+         System.out.println("bu sene14 sampiyonuz");
+        System.out.println("bu sene15 sampiyonuz");
 
     }
 }
