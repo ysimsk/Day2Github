@@ -12,5 +12,6 @@ public class bjk {
         System.out.println("bu sene15 sampiyonuz");
         System.out.println("bu sene16 sampiyonuz");
 
+
     }
 }
