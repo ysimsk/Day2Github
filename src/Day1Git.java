@@ -8,7 +8,5 @@ public class Day1Git {
 
 
 
-
-
     }
 }
