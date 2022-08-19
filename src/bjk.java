@@ -3,6 +3,8 @@ public class bjk {
 
 
         System.out.println("bu sene sampiyonuz");
+        System.out.println("bu sene sampiyonuz");
+        System.out.println("bu sene sampiyonuz");
 
     }
 }
